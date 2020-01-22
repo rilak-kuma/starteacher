@@ -1,6 +1,6 @@
 import { createTransport } from "nodemailer";
 
-//smtp 서버를 사용하기 위한 모듈이다.
+//smtp 서버를 사용하기 위한 모듈이다. 
 import smtpPool from "nodemailer-smtp-pool";
 
 const a = () => {
