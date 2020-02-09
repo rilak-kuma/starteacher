@@ -51,3 +51,8 @@ rdb:
         - 'TZ=Asia/Seoul'
     ports:
         - '33061:3306'
+
+[5] federated 엔진설정 확인 : show engines;
+# federated 가 YES 로 되어 있는 것을 확인한다.
+
+[6] federated table을 조회하여 본다.        
